@@ -104,6 +104,7 @@ fn(2)  //retorna 2
 fn(2, 3)  //retorna 5
 fn(2, 3, 5)  //retorna 1
 fn()  //retorna false
+fn(null) //retorna null
 
 
 ```
