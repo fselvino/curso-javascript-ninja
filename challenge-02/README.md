@@ -65,14 +65,14 @@ var m = multiplicacao(8, 9)
 
 // Qual o resultado da invocação acima? (Use comentários para mostrar o valor retornado).
 
-'Preencha todos os valores corretamente!'
+//'Preencha todos os valores corretamente!'
 
 // Agora invoque novamente a função criada acima, mas passando todos os três argumentos necessários.
 
 var m = multiplicacao(7,8, 9)
 // Qual o resultado da invocação acima? (Use comentários para mostrar o valor retornado).
 
-506
+// 506
 
 /*
 Crie uma função com as seguintes características:
