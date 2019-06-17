@@ -35,7 +35,7 @@ newVariavel(3)
 
 // Qual o retorno da função? (Use comentários de bloco).
 
-retorna 3
+/* O valor da variável agora é : 3 */
 
 /*
 Crie uma função com as seguintes características:
